@@ -40,7 +40,9 @@
 #include <unistd.h>
 #include <string.h>
 #include <fcntl.h>
+  /* rpf_CESM2_SLH */
 #include <ctype.h>
+  /* rpf_CESM2_SLH */
 
 
 #define CFG_LEN 35
