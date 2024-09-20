@@ -40,8 +40,9 @@
 #include <unistd.h>
 #include <string.h>
 #include <fcntl.h>
+  /* rpf_CESM3_SLH:this was missing in CESM2_SLH */
 #include <ctype.h>
-
+  /* rpf_CESM3_SLH:this was missing in CESM2_SLH */
 
 #define CFG_LEN 35
 #define BUFFER_LEN 400
